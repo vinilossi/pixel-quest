@@ -4,6 +4,8 @@
 @import 'hero.css';
 @import 'info.css';
 @import 'quote.css';
+@import 'call.css';
+
 
 body {
     background-color: var(--primary-bg-color);

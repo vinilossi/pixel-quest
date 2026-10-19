@@ -1,0 +1,40 @@
+.call {
+    padding: 20px 100px;
+    margin: 2.5rem 0;
+    display: flex;
+}
+
+.call-card {
+    background-color: var(--secondary-bg-color);
+    margin: 5rem 0;
+    padding: 50px 200px;
+    width: 100%;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.call-card_text {
+    width: 60%;
+}
+
+.call-card__title {
+    font-size: 26px;
+}
+
+.btn-card__call {
+    display: inline-block;
+    padding: 8px 22px;
+    background-color: transparent;
+    border: 2px solid var(--accent-cyan);
+    border-radius: 16px;
+    color: var(--accent-cyan);
+    cursor: pointer;
+}
+
+.btn-card__call:hover {
+    background-color: var(--accent-cyan);
+    color: var(--secondary-bg-color)
+}
