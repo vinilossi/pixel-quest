@@ -1,1 +1,9 @@
 @import 'reset.css';
+@import 'variables.css';
+
+body {
+    background-color: var(--primary-bg-color);
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    line-height: 1.6;
+}

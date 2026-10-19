@@ -1,0 +1,11 @@
+:root {
+  --primary-bg-color: #120924;
+  --scondary-bg-color: #1d1138;
+  --accent-pink: #ff006e;
+  --accent-cyan: #00f0ff;
+  --text-primary: #f8f9fa;
+  --text-secondary: #a092b7;
+
+  --font-heading: 'Press Start 2P', cursive;
+  --font-body: 'Inter', sans-serif;
+}
