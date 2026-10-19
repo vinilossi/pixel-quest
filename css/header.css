@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 200px;
+}
+
+h1 {
+    font-size: 24px;
+    font-family: 'VT323', monospace;
+    color: var(--accent-cyan);
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+}
+
+nav {
+    display: flex;
+    gap: 24px;
+}
+
+.nav-link {
+    color: var(--text-primary);
+    opacity: 0.9;
+}
+
+.nav-link:hover { 
+    color: var(--accent-pink, #ff006e); 
+}
