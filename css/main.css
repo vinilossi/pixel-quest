@@ -3,6 +3,7 @@
 @import 'header.css';
 @import 'hero.css';
 @import 'info.css';
+@import 'quote.css';
 
 body {
     background-color: var(--primary-bg-color);

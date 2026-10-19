@@ -8,8 +8,9 @@
 }
 
 .info-header {
+    font-family: 'VT323', monospace;
     margin-top: 2rem;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .heroes {
