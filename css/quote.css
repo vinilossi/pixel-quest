@@ -1,0 +1,17 @@
+.quote {
+    background-color: var(--secondary-bg-color);
+    padding: 20px 300px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    margin-top: 5rem;
+}
+
+.auote-text__author {
+    font-weight: 700;
+    text-align: right;
+    font-size: 1.5rem;
+    margin-bottom: 5rem;
+}

@@ -14,7 +14,8 @@
 }
 
 .hero-title {
-    font-size: 40px;
+    font-family: 'VT323', monospace;;
+    font-size: 58px;
     font-weight: 700;
     color: var(--text-primary);
 }
