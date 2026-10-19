@@ -5,7 +5,7 @@
 @import 'info.css';
 @import 'quote.css';
 @import 'call.css';
-
+@import 'footer.css';
 
 body {
     background-color: var(--primary-bg-color);
