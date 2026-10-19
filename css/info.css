@@ -1,0 +1,26 @@
+.info {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--secondary-bg-color);
+    text-align: center;
+    gap: 4rem;
+    padding: 20px 200px;
+}
+
+.info-header {
+    margin-top: 2rem;
+    font-size: 36px;
+}
+
+.heroes {
+    display: flex;
+    gap: 2rem;
+}
+
+.heroes-hero__card_img {
+    width: 180px;
+    object-fit: cover;
+    border: 3px solid var(--accent-pink);
+    border-radius: 8px;
+}
+

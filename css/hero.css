@@ -3,6 +3,7 @@
     padding: 20px 200px;
     gap: 5rem;
     align-items: center;
+    margin-bottom: 2rem;
 }
 
 .hero-content {
@@ -15,7 +16,7 @@
 .hero-title {
     font-size: 40px;
     font-weight: 700;
-    color: var(--text-primary)
+    color: var(--text-primary);
 }
 
 .hero-subtext {
