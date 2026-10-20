@@ -13,6 +13,13 @@
     font-size: 46px;
 }
 
+.info-header::after {
+    content: '_';
+    margin-left: 4px;
+    font-weight: bold;
+    animation: blink 0.8s infinite;
+}
+
 .heroes {
     display: flex;
     gap: 2rem;
