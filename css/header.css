@@ -25,4 +25,5 @@ nav {
 
 .nav-link:hover { 
     color: var(--accent-pink, #ff006e); 
+    border-bottom: 1px solid var(--accent-pink);
 }
